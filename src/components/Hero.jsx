@@ -1,5 +1,4 @@
 import React from "react";
-import profileImage from "../assets/wanda.jpg"; // Import your image file
 
 const Hero = () => {
   return (

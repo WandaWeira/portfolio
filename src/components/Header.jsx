@@ -13,7 +13,7 @@ const Header = () => {
           src={logo}
           alt="logo"
         />
-        <h1 className="text-lg md:text-2xl font-semibold">Portfolio</h1>
+        <h1 className="text-lg md:text-xl font-semibold">Portfolio</h1>
       </div>
 
       {/* Navigation */}
