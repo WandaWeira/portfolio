@@ -1,6 +1,9 @@
+import AboutMe from "./components/AboutMe";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import OtherSkills from "./components/OtherSkills";
 import Projects from "./components/Projects";
+import Technologies from "./components/Technologies";
 
 function App() {
   return (
@@ -9,6 +12,9 @@ function App() {
         <Header />
         <Hero />
         <Projects />
+        <Technologies />
+        <OtherSkills />
+        <AboutMe />
       </div>
     </div>
   );

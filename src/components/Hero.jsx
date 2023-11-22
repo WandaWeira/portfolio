@@ -1,4 +1,4 @@
-import React from "react";
+import hero from '../assets/weira.png'
 
 const Hero = () => {
   return (
@@ -13,6 +13,9 @@ const Hero = () => {
         <button className="bg-gradient-to-r from-cyan-400 to-violet-900 p-2 my-10 rounded-3xl w-48">
           Lets begin
         </button>
+      </div>
+      <div className="w-full md:w-1/2 md:pl-16">
+        <img src={hero} />
       </div>
     </div>
   );
