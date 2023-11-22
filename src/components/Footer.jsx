@@ -3,7 +3,7 @@ import { CiLinkedin } from "react-icons/ci";
 
 const Footer = () => {
   return (
-    <div className="w-full md:pl-16 my-28 flex justify-between">
+    <div className="w-full md:pl-16 mt-28 mb-5 flex justify-between">
       <div className="flex flex-col">
         <h1 className="text-2xl font-medium my-4">Call me:</h1>
         <p className="text-2xl font-medium">+256773599715</p>

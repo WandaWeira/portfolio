@@ -8,7 +8,7 @@ import Technologies from "./components/Technologies";
 
 function App() {
   return (
-    <div className="bg-custom text-white">
+    <div className="bg-custom text-white min-h-screen flex flex-col">
       <div className="mx-28">
         <Header />
         <Hero />

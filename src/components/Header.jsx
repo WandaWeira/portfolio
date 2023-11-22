@@ -5,7 +5,7 @@ import { CiLinkedin } from "react-icons/ci";
 
 const Header = () => {
   return (
-    <div className="flex flex-col md:flex-row md:items-center md:justify-between my-4">
+    <div className="flex flex-col md:flex-row md:items-center md:justify-between py-4">
       {/* fixed top-0 */}
       {/* Logo and Title */}
       <div className="flex items-center justify-center md:justify-start gap-4">
