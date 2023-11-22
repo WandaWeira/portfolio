@@ -10,8 +10,8 @@ const Technologies = () => {
             <p>HTML</p>
             <p>Advanced</p>
           </div>
-          <div className="relative pt-0.5 text-xs text-center text-white bg-gray-500 w-full rounded-xl h-4">
-            <div className="absolute top-0 left-0 bg-blue-500 h-full w-1/4 rounded-xl"></div>
+          <div className="relative pt-0.5 text-xs text-center text-white bg-lighter w-full rounded-xl h-4">
+            <div className="absolute top-0 left-0 bg-gradient-to-r from-cyan-400 to-violet-900 h-full w-1/4 rounded-xl"></div>
           </div>
         </div>
         <div className="w-full my-4">
@@ -19,8 +19,8 @@ const Technologies = () => {
             <p>HTML</p>
             <p>Advanced</p>
           </div>
-          <div className="relative pt-0.5 text-xs text-center text-white bg-gray-500 w-full rounded-xl h-4">
-            <div className="absolute top-0 left-0 bg-green-500 h-full w-1/2 rounded-xl"></div>
+          <div className="relative pt-0.5 text-xs text-center text-white bg-lighter w-full rounded-xl h-4">
+            <div className="absolute top-0 left-0 bg-gradient-to-r from-cyan-400 to-violet-900 h-full w-1/2 rounded-xl"></div>
           </div>
         </div>
         <div className="w-full my-4">
@@ -28,8 +28,8 @@ const Technologies = () => {
             <p>HTML</p>
             <p>Advanced</p>
           </div>
-          <div className="relative pt-0.5 text-xs text-center text-white bg-gray-500 w-full rounded-xl h-4">
-            <div className="absolute top-0 left-0 bg-red-500 h-full w-3/4 rounded-xl"></div>
+          <div className="relative pt-0.5 text-xs text-center text-white bg-lighter w-full rounded-xl h-4">
+            <div className="absolute top-0 left-0 bg-gradient-to-r from-cyan-400 to-violet-900 h-full w-3/4 rounded-xl"></div>
           </div>
         </div>
       </div>
