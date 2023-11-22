@@ -1,4 +1,5 @@
 import AboutMe from "./components/AboutMe";
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import OtherSkills from "./components/OtherSkills";
@@ -7,7 +8,7 @@ import Technologies from "./components/Technologies";
 
 function App() {
   return (
-    <div className="bg-custom text-white mt-0">
+    <div className="bg-custom text-white">
       <div className="mx-28">
         <Header />
         <Hero />
@@ -15,6 +16,7 @@ function App() {
         <Technologies />
         <OtherSkills />
         <AboutMe />
+        <Footer />
       </div>
     </div>
   );

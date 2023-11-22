@@ -2,11 +2,11 @@ import React from "react";
 
 const OtherSkills = () => {
   return (
-    <div className="my-10 mb-28 w-full md:pl-16">
+    <div className="my-10 w-full md:pl-16">
       <h1 className="font-semibold text-3xl">
         Additional technologies and skills
       </h1>
-      <div className="flex justify-between mx-28">
+      <div className="flex justify-between mx-28 mt-10">
         <ul className="my-6 list-disc">
           <li>Git</li>
           <li>Quick learning</li>
